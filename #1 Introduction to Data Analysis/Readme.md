@@ -33,17 +33,26 @@ Jupyter lab provides the best enviorment for story telling and coding, lets get 
 
 ## Steps 
 1. Install [`python`](https://www.python.org/downloads/) on your computer if you are new to python. 
+```
+# Verify if everthing is installed properly
+
+python --version
+```
+
 2. Install [`pip`](https://pip.pypa.io/en/stable/installation/)
+```
+# Run the code below in your command prompt
+
+py -m ensurepip --upgrade
+
+# After the installation, run the verification code
+
+pip --version
+```
+
 3. Install `jupyter notebook`
 
 ```
-# First, verify if you have pip installed. In recent versions of Python 3 >=3.4, pip comes preinstalled. 
-# If the `pip` command below shows an error, 
-
-python --version
-pip --version
-
-
 # Use either of the commands below to install notebook
 pip install notebook
 pip install jupyter notebook
