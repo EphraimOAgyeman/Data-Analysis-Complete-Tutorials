@@ -32,11 +32,14 @@ Jupyter lab provides the best enviorment for story telling and coding, lets get 
 
 
 ## Steps 
-1. Install [python](https://www.python.org/downloads/) on your computer. 
+1. Install [python](https://www.python.org/downloads/) on your computer if you are new to python. 
+2. Install `pip`
+3. Follow the codes below in your command prompt.
 
 ```
 # First, verify if you have pip installed. In recent versions of Python 3 >=3.4, pip comes preinstalled. 
-# If the `pip` command below shows an error, try installing pip from https://pip.pypa.io/en/stable/installing/ 
+# If the `pip` command below shows an error, 
+
 python --version
 pip --version
 
