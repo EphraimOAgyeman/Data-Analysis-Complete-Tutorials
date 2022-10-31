@@ -32,8 +32,8 @@ Jupyter lab provides the best enviorment for story telling and coding, lets get 
 
 
 ## Steps 
-1. Install [python](https://www.python.org/downloads/) on your computer if you are new to python. 
-2. Install `pip`
+1. Install [`python`](https://www.python.org/downloads/) on your computer if you are new to python. 
+2. Install [`pip`](https://pip.pypa.io/en/stable/installation/)
 3. Install `jupyter notebook`
 
 ```
