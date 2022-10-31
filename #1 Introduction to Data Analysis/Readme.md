@@ -22,4 +22,4 @@ Data analysis has greatly moved from a programming language called `R` to `Pytho
 This migration happened due to the flexible libraries python has due to its growing community, making data analysis far easier.
 
 The tool to be used for this course is `Jupyter notebook`.
-It is a web application for python programming mainly and just as is an ongoing migration of programming languages for data analysis, there is also a migration in [IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment) or coding enviroments for data analysis.
+It is a web application for python programming, and just as there is an ongoing migration of programming languages for data analysis, there is also a migration in [IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment) or coding enviroments for data analysis.
