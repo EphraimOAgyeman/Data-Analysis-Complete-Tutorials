@@ -10,4 +10,5 @@ This is a complete course structure to take you through Data analysis, step-by-s
 
 
 ## Summary of Lessons
-- begins
+- Setup and installations
+- Understanding the data analysis process
