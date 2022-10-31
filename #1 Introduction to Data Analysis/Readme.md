@@ -49,6 +49,7 @@ pip install notebook
 pip install jupyter notebook
 ```
 
+4. Run jupyter notebook
 ```
  # Run the notebook with:
  jupyter notebook
