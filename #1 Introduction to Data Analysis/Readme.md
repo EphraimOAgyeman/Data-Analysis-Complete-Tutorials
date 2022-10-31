@@ -25,12 +25,36 @@ The tool to be used for this course is `Jupyter notebook`.
 It is a web application for python programming, and just as there is an ongoing migration of programming languages for data analysis, there is also a migration in [IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment) or coding enviroments for data analysis.
 
 
-Data analysis is not just about a bunch of codes writted together, looking all sci-fy and complex - but a story is to be told when ever you analyse. This concept makes use of both words of explanation even as you code along side. Similar to how a software developer of engineer will follow codes with comments as a good practice, Data analysis makes it mandatory.
+Data analysis is not just about a bunch of codes written together, looking all sci-fy and complex - but a story is to be told whenever you analyse data. This concept makes use of both words of explanation and code. Similar to how a software developer of engineer will follow codes with comments as a good practice, Data analysis makes it mandatory.
 
 Jupyter lab provides the best enviorment for story telling and coding, lets get started!
 ---
 
 
 ## Steps 
-1. Install [python](https://www.python.org/downloads/) on your computer
+1. Install [python](https://www.python.org/downloads/) on your computer. 
+
+```
+# First, verify if you have pip installed. In recent versions of Python 3 >=3.4, pip comes preinstalled. 
+# If the `pip` command below shows an error, try installing pip from https://pip.pypa.io/en/stable/installing/ 
+python --version
+pip --version
+
+
+# Use either of the commands below to install notebook
+pip install notebook
+pip install jupyter notebook
+```
+
+```
+ # Run the notebook with:
+ jupyter notebook
+ 
+ # or :
+ python -m notebook
+```
+
+
+
+
 
