@@ -67,7 +67,7 @@ pip install jupyter notebook
  python -m notebook
 ```
 
-## Congratulations ✨hhh
+## Congratulations ✨h
 <img src="sampleJupyter.jpg">
 
 
