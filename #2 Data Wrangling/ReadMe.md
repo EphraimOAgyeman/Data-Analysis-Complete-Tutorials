@@ -1,4 +1,4 @@
-<img src="#2 Data Wrangling/Images/start.webp">
+<img src="Images/start.webp">
 
 ## Welcome
 
