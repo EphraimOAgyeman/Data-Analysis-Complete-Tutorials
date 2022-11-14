@@ -44,3 +44,7 @@ Since we are working in python, we have to know how to programmatically gather d
 The other way of loading or gathering data is visually. If the data is on the internet, on a website, simply download it and manually upload it the jupyter platform. likewise if the data is on the computer, upload it to the jupyter platform using the file upload option at the start of jupyter labs.
 
 If the data is in a database, save the data out as a `CSV` or `TSV`file and repeat the upload process.
+
+---
+## How to load data unto Jupyter notebook
+
