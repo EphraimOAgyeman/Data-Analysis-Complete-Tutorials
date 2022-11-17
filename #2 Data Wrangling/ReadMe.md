@@ -10,3 +10,4 @@ I believe the introduction was made clear, we are about to look into the steps o
 - [Data Cleaning](https://github.com/EphraimOAgyeman/Data-Analysis-Complete-Tutorials/blob/2b8ab2f27b04c325f770024265e32202628a52d5/%232%20Data%20Wrangling/2.%20Data%20Cleaning.md)
 - [Data Exploration](https://github.com/EphraimOAgyeman/Data-Analysis-Complete-Tutorials/blob/b0e00bba77c32ccb5d8ff09aa1dc067a3ba8b65e/%232%20Data%20Wrangling/3.%20Data%20Exploring%20and%20Insigts.md)
 
+> Check out this [project](https://github.com/EphraimOAgyeman/Data-Analysis-Complete-Projects/tree/main/Bike_Trips_Project) which will give you a clear understanding of what this course entails plus getting to understand how a complete analysis looks like.
