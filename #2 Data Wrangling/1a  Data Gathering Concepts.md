@@ -45,6 +45,4 @@ The other way of loading or gathering data is visually. If the data is on the in
 
 If the data is in a database, save the data out as a `CSV` or `TSV`file and repeat the upload process.
 
----
-## How to load data unto Jupyter notebook
 
