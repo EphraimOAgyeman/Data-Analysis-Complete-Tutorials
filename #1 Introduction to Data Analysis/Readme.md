@@ -29,7 +29,7 @@ Data analysis is not just about a bunch of codes written together, looking all s
 
 Jupyter lab provides the best enviorment for story telling and coding, lets get started!
 ---
-
+ADD THE FLAG `--USER` FOR AUTHORIRIZATION
 
 ## Steps 
 1. Install [`python`](https://www.python.org/downloads/) on your computer if you are new to python. 
