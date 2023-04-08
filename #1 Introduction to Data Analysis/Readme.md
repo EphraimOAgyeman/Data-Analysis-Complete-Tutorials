@@ -48,6 +48,7 @@ py -m ensurepip --upgrade
 # After the installation, run the verification code
 
 pip --version
+pip install --upgrade pip
 ```
 
 3. Install `jupyter notebook`
